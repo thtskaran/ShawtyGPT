@@ -10,7 +10,7 @@ A fun project exploring the power of Google's Generative AI API to create a sass
 **Installation:**
 
 1. **Obtain API Keys:**
-   - Get a Google Generative AI API key ([https://console.cloud.google.com/apis/dashboard](https://console.cloud.google.com/apis/dashboard))
+   - Get a Google Generative AI API key ([https://ai.google.dev](https://ai.google.dev))
    - Create a Telegram bot and get its API credentials ([https://core.telegram.org/bots#creating-a-new-bot](https://core.telegram.org/bots#creating-a-new-bot))
 2. **Install Dependencies:**
    ```bash

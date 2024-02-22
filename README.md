@@ -20,11 +20,11 @@ A fun project exploring the power of Google's Generative AI API to create a sass
    git clone [https://github.com/thtskaran/shawtyGPT.git](https://github.com/thtskaran/shawtyGPT.git) ```
 **Configuration:**
 
-Replace the placeholder values in the code with your actual API keys and bot token.
-Generative AI Settings:
-Experiment with the values in ```generation_config``` to tweak the bot's response style.
-Carefully consider the safety_settings to mitigate potentially harmful responses.
-initial_history Customization:
+1.Replace the placeholder values in the code with your actual API keys and bot token.
+2.Generative AI Settings:
+*Experiment with the values in ```generation_config``` to tweak the bot's response style.
+*Carefully consider the safety_settings to mitigate potentially harmful responses.
+*initial_history Customization:
 This is where you define your bot's personality! Change the text, tone, and even the subject matter to build a completely different conversational AI.
 
 **Usage:**

@@ -35,9 +35,13 @@ This is where you define your bot's personality! Change the text, tone, and even
 
 1.Run the Python script:
  ```python shawty.py ```
+ 
 2.Use code with caution.
+
 3.Start chatting with your bot on Telegram.
-4.Use the /reset command in your Telegram chat to reset the bot's memory and start a fresh conversation.
+
+4.Use the ```/reset``` command in your Telegram chat to reset the bot's memory and start a fresh conversation.
+
 
 **Troubleshooting:**
 - AI Brain Freeze: If the bot fails to respond or generates inappropriate content, it's likely the safety settings have been triggered due to sensitive or harmful input. Try rephrasing your message or modify the safety_settings.

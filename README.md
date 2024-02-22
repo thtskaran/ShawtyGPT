@@ -52,8 +52,11 @@ Feel free to fork this repository and make it your own! Experiment with differen
 **Connect:**
 Let's chat more about AI and interesting projects! Find me at:
 
--Instagram: @thtskaran
--Telegram: @thtskaran
--Twitter: @thtskaran
--Website: karanprasad.com
+* Instagram: @thtskaran
+
+* Telegram: @thtskaran
+  
+* Twitter: @thtskaran
+
+* Website: karanprasad.com
  

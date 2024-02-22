@@ -16,8 +16,9 @@ A fun project exploring the power of Google's Generative AI API to create a sass
    ```bash
    pip install google.generativeai pyrogram
 3. **Clone The Repo:**
-4. ```bash
-   git clone [https://github.com/thtskaran/shawtyGPT.git](https://github.com/thtskaran/shawtyGPT.git) ```
+   ```bash
+    git clone https://github.com/thtskaran/shawtyGPT/
+
 **Configuration:**
 
 1.Replace the placeholder values in the code with your actual API keys and bot token.
